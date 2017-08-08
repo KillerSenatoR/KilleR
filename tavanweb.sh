@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/TavanWeb
+cd $HOME/KilleR_iR
 
 install() {
 	    cd tg
